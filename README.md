@@ -1,2 +1,2 @@
-# stripe-integration
+# stripe-integration-example
 Stripe integration example
